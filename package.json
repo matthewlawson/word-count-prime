@@ -1,0 +1,23 @@
+{
+  "name": "word-count-prime",
+  "version": "1.0.0",
+  "description": "Count prime numbers in a text file & output if it is a prime or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --slow 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewlawson/word-count-prime.git"
+  },
+  "author": "Matthew Lawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewlawson/word-count-prime/issues"
+  },
+  "homepage": "https://github.com/matthewlawson/word-count-prime#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
+}

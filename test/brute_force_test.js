@@ -40,7 +40,5 @@ describe('BruteForce() tests', function() {
             expect(wordMap['apple'].prime).to.be(true);
             expect(wordMap['chocolate'].prime).to.be(true);
         });
-
-       
     });
 });
